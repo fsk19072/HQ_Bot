@@ -16,7 +16,7 @@
 import json
 import urllib.request as urllib2
 from bs4 import BeautifulSoup
-from google import google
+from googlesearch import search
 from PIL import Image
 import pytesseract
 import argparse
